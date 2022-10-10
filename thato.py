@@ -1,0 +1,8 @@
+print("enter name")
+character_name=input()
+print("enter number")
+character_number=input()
+print("there onces was a man named " +character_name+",")
+print("he had " +character_number+" goats.")
+print("he really liked his goats")
+print("but all his " +character_number+" goats died")
